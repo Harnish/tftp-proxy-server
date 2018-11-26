@@ -1,0 +1,3 @@
+port: 69
+ipfile: cidrfile.yaml
+urlbase: http://yourserver.com/path/to/files
